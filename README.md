@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m @fulepsrac
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, I find Ai and Data Science really interesting, I tend to go on with my life in this direction
 - 🌱 I’m currently learning Computer Science at the University of ELTE
 - 💞️ I’m looking to collaborate on anything I guess
 - 📫 How to reach me 
